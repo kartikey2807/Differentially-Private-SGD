@@ -6,5 +6,5 @@ Adds differential privacy to the gradient descent step in ML model training. By 
 On the MNIST dataset
 |Model|Test Accuracy|
 | :- | :- |
-|Vanilla|~97%|
-|Differentially Private|~91%|
+|Vanilla|97.00%|
+|Differentially Private|91.00%|
