@@ -4,7 +4,7 @@
 * Evaluated on the MNIST dataset
 * **Post-hoc**: gradient access is differentially private (DP) $\rightarrow$ entire model is DP
 * Having privacy budget $\epsilon$ ensure weights are private
-* References: [Deep Learning with DP](https://arxiv.org/pdf/1607.00133) and [PyTorch Implementation](https://medium.com/pytorch/differential-privacy-series-part-1-dp-sgd-algorithm-explained-12512c3959a3)
+* References: [Deep Learning with DP](https://arxiv.org/pdf/1607.00133) and [PyTorch DP-SGD](https://medium.com/pytorch/differential-privacy-series-part-1-dp-sgd-algorithm-explained-12512c3959a3)
 
 ---
 **Results**   
