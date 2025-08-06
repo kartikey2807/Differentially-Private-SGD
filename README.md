@@ -1,9 +1,10 @@
 # Differentially-Private Stochastic Gradient Descent
-References: [Abadi, Martin et al.](https://arxiv.org/pdf/1607.00133)
-* Differential privacy to *gradient step*
+References: [Abadi, Martin et al.](https://arxiv.org/pdf/1607.00133)   
+**Summary**   
+* Differential privacy added to *gradient step*
 * Tradeoff exists between utility and privacy
-* **Post-hoc**: gradient access is differentially private (DP) $\rightarrow$ entire model is DP
 * Having privacy budget $\epsilon$ ensure weights are private
+* **Post-hoc**: gradient access is differentially private (DP) $\rightarrow$ entire model is DP
 
 ---
 **Results**   
